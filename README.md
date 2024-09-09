@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1000多个poc/exp，善用CTRL+F搜索
 
@@ -42,6 +43,10 @@
 - [SPIP-porte_plume插件存在任意PHP执行漏洞(CVE-2024-7954)](./SPIP/SPIP-porte_plume插件存在任意PHP执行漏洞(CVE-2024-7954).md)
 - [通天星CMSV6车载定位监控平台getAlarmAppealByGuid存在SQL注入漏洞](./通天星/通天星CMSV6车载定位监控平台getAlarmAppealByGuid存在SQL注入漏洞.md)
 - [同鑫eHR人力资源管理系统GetFlowDropDownListItems存在SQL注入漏洞](./同鑫eHR/同鑫eHR人力资源管理系统GetFlowDropDownListItems存在SQL注入漏洞.md)
+=======
+# Myself漏洞文库
+使用docsify分类整理，方便查看。
+>>>>>>> 96ad494d92bcab4c4c96be05792f5b6c2ab1e9b1
 
 ## 2024.08.24 新增漏洞
 
