@@ -1,7 +1,6 @@
 - [首页](/)
 - 1Panel
   - [1Panel面板最新前台RCE漏洞(CVE-2024-39911)](./1Panel/1Panel面板最新前台RCE漏洞(CVE-2024-39911).md)
-  - [PE](./1Panel/PE.md)
 - Adobe ColdFusion
   - [Adobe-ColdFusion任意文件读取漏洞CVE-2024-20767](./Adobe-ColdFusion\Adobe-ColdFusion任意文件读取漏洞CVE-2024-20767.md)
 - AEGON
