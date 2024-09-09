@@ -1,5 +1,5 @@
-# wiki876漏洞文库
-将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
+# Myself漏洞文库
+使用docsify分类整理，方便查看。
 
 ## 2024.08.24 新增漏洞
 
